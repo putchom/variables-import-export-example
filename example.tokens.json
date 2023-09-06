@@ -1,0 +1,56 @@
+{
+  "color": {
+    "text": {
+      "primary": {
+        "$value": "{color.purple.2}",
+        "$modes": {
+          "dark": "{color.purple.4}"
+        }
+      }
+    },
+    "purple": {
+      "0": {
+        "$value": "#e8e1f3",
+        "$type": "color"
+      },
+      "1": {
+        "$value": "#b79ed9",
+        "$type": "color"
+      },
+      "2": {
+        "$value": "#9568c6",
+        "$type": "color"
+      },
+      "3": {
+        "$value": "#6e389f",
+        "$type": "color"
+      },
+      "4": {
+        "$value": "#351552",
+        "$type": "color"
+      }
+    }
+  },
+  "dimension": {
+    "0": {
+      "$value": "0px",
+      "$type": "dimension"
+    },
+    "1": {
+      "$value": "1px",
+      "$type": "dimension"
+    },
+    "2": {
+      "$value": "2px",
+      "$type": "dimension"
+    },
+    "4": {
+      "$value": "4px",
+      "$type": "dimension"
+    },
+    "8": {
+      "$value": "8px",
+      "$type": "dimension"
+    }
+  }
+}
